@@ -30,3 +30,15 @@ button {
   background-color: green;
 }
 
+.btn_minus_2 {
+  background-color:chartreuse;
+}
+
+.btn_plus_5 {
+  background-color:blue;
+}
+
+.btn_reset {
+width: max-content;
+background-color:grey;
+}
