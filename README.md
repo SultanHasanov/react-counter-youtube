@@ -9,4 +9,4 @@ Educational project for youtube
 
 
 
-`https://youtu.be/GG5TqD3XeZo`
+https://youtu.be/GG5TqD3XeZo
