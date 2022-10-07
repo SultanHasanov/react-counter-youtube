@@ -1,5 +1,8 @@
 In the project directory, you can run:
 
+Учебный проект для ютуба
+Educational project for youtube
+
 ### `npm i`
 
 ### `npm start`
